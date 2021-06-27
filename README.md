@@ -1,2 +1,2 @@
-# Java_Advance
-This includes the Java advance course along with the source code and pdf notes.
+## Java_Advance
+This includes the Java advance course(Swing) along with the source code.
